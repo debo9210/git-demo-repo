@@ -1,6 +1,6 @@
 ## Git Demo
 
-### Someother changes
+### Some other changes
 
 > A demo of deep dive into version control
 
