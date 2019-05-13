@@ -19,3 +19,4 @@ end
 ```javascript
 alert('Hello world');
 ```
+> End of code example
